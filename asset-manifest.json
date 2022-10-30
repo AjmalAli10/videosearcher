@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/videosearcher/static/css/main.6e7a2ea4.css",
+    "main.js": "/videosearcher/static/js/main.f319d96b.js",
+    "static/js/787.572a714c.chunk.js": "/videosearcher/static/js/787.572a714c.chunk.js",
+    "index.html": "/videosearcher/index.html",
+    "main.6e7a2ea4.css.map": "/videosearcher/static/css/main.6e7a2ea4.css.map",
+    "main.f319d96b.js.map": "/videosearcher/static/js/main.f319d96b.js.map",
+    "787.572a714c.chunk.js.map": "/videosearcher/static/js/787.572a714c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e7a2ea4.css",
+    "static/js/main.f319d96b.js"
+  ]
+}
