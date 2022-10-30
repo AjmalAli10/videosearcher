@@ -1,3 +1,15 @@
+# Developed search Box 
+In this project I used React and Material UI.
+## Added Search box UI to the VideoSearch component as well as the search  functionality
+With debouncing -
+An API call isn’t made immediately
+An API call is made only if the subsequent requests for the API call stops for some time
+Debouncing allows to group multiple sequential API calls to a single one
+
+## How I implemented Debouncing?
+When API call handler is to be called, if a timer already exists, reset it (clearTimeout)
+Set a new timer which executes the API call handler after X ms (setTimeout)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
